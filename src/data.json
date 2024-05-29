@@ -99,6 +99,10 @@
     "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x32-700sc.exe",
     "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x64-700sc.exe",
     "date": "20240306"
+  },
+  "7.01": {
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240528/wrr/winrar-x64-701sc.exe",
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240528/wrr/winrar-x32-701sc.exe",
+    "date": "20240528"
   }
 }
-
